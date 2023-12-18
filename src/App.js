@@ -16,7 +16,7 @@ import dorian from './media/dorian.jpg';
           Niestety jest jeszcze w budowie <br></br>
           Zapraszamy na nasze kanały na yt: <br></br>
           <div>
-          <iframe height="90px" width="310px" frameborder="0" src="https://socialcounts.org/youtube-live-subscriber-count/UCJaGHkADXSuGyFD6L4Skdjg/embed" allowFullScreen></iframe>
+          <iframe title="jakub" height="90px" width="310px" frameborder="0" src="https://socialcounts.org/youtube-live-subscriber-count/UCJaGHkADXSuGyFD6L4Skdjg/embed" allowFullScreen></iframe>
             <a href="https://www.youtube.com/@DominikTCG"
               target="_blank"
               rel="noreferrer">
